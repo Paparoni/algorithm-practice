@@ -1,10 +1,4 @@
-# Program: Bullseye.py
-# Authors: Michael H. Goldwasser
-#          David Letscher
-#
-# This example is discussed in Chapter 11 of the book
-# Object-Oriented Programming in Python
-#
+
 from cs1graphics import *
 class Pyramid(Drawable):
   """Represent a bullseye with an arbitrary number of bands."""
